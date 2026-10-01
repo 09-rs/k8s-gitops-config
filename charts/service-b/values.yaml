@@ -1,7 +1,7 @@
 replicaCount: 2
 
 image:
-  repository: REPLACE_WITH_ECR/service-b
+  repository: 232428702881.dkr.ecr.ap-south-1.amazonaws.com/k8s-gitops-service-b
   tag: "latest"
   pullPolicy: Always
 
