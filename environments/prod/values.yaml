@@ -1,0 +1,8 @@
+service-a:
+  replicaCount: 2
+
+service-b:
+  replicaCount: 2
+
+service-c:
+  replicaCount: 2
